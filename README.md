@@ -1,12 +1,20 @@
 # Lutgardis Ineza Ukangutse (Beck)
 
 Welcome to my GitHub portfolio!  
+
 My name is **Lutgardis Ineza Ukangutse** (Beck).I am an **MSCS applicant** with a background in **Industrial Engineering and Managerial Sciences** from Northwestern University and a passion for **software engineering, data science, and automation**.  
 This page showcases selected projects that demonstrate my technical skills and problem-solving ability.
 
 ---
 
 ## Featured Projects
+
+### [Machine Learning – Philadelphia Housing Prices](https://github.com/inezaukangutse/ml-housing-prices)
+Machine learning project predicting Philadelphia housing prices.  
+Includes regression models, feature importance analysis, and visual evaluation of predictions.  
+**Tech:** Python, scikit-learn, Pandas, Matplotlib, Seaborn 
+
+---
 
 ### [Task Manager Web App](https://github.com/inezaukangutse/task-manager-webapp)
 A full-stack task manager app built with Flask, SQLite, and HTML/CSS.  
@@ -24,14 +32,7 @@ Includes interactive maps and statistical graphics for pattern discovery.
 
 ### [Python Automation – BBC News Headlines](https://github.com/inezaukangutse/python-automation)
 Automation pipeline that scrapes live BBC News headlines, processes the text, and stores results in CSV for analysis.  
-**Tech:** Python, Requests, BeautifulSoup  
-
----
-
-### [Machine Learning – Philadelphia Housing Prices](https://github.com/inezaukangutse/ml-housing-prices)
-Machine learning project predicting Philadelphia housing prices.  
-Includes regression models, feature importance analysis, and visual evaluation of predictions.  
-**Tech:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
+**Tech:** Python, Requests, BeautifulSoup   
 
 ---
 
